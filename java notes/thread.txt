@@ -1,0 +1,3 @@
+*THREAD=thread is a light weight process
+*run method is called by thread shedular not by start method
+*start method is just starting the run mathod not calling the run method

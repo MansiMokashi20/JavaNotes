@@ -1,0 +1,27 @@
+function overloading
+___________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________
+ 
+*function overloading=same function name with diffrent parameters.
+1)function overloading means we can use same function name more than once for diffrent implementations
+2)while doing function overloading function signature must be diffrent
+3)and function signatures are =
+function signature:
+1.type of parameter..
+void display(int,int)
+void display(float,float)
+
+2.no of parameter
+void display(int)
+void display(int,int)
+
+3.sequence of parameter
+void display(int,float)
+void display(float,int)
+
+
+**NOTE**
+this is not a function overloading
+int display(int)
+float display(int)
+ 

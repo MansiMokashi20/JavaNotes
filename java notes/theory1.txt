@@ -1,0 +1,13 @@
+THEORY=
+
+1.class
+2.object
+3.encapsulation
+4.abstraction
+5.this keyword
+6.constructor
+7.static concept
+8.wrapper class
+9.function overloading and varargs
+10.access constrol
+--private,public,protected,default
